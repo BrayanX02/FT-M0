@@ -1,0 +1,11 @@
+body{background-color: khaki;
+}
+.container0{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.item1, .item2, .item4{
+    width: 50%;
+}
+
